@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hamdi Mechmech 👋
 
-<!--
-**hamdimech1/hamdimech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student passionate about developing innovative solutions. 
 
-Here are some ideas to get you started:
+## Skills
+- Web Development (Angular, Symfony)
+- DevOps (Jenkins, CI/CD)
+- Database Management (MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/hamdi-mechmech-35b64b275)
+- [Email](mailto:mechmechhamdi@gmail.com)
+
+![Profile Picture](link-to-your-profile-picture)
