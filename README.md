@@ -11,4 +11,4 @@ I'm a Software Engineering student passionate about developing innovative soluti
 - [LinkedIn](https://www.linkedin.com/in/hamdi-mechmech-35b64b275)
 - [Email](mailto:mechmechhamdi@gmail.com)
 
-![Profile Picture](link-to-your-profile-picture)
+
